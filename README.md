@@ -9,11 +9,11 @@ Here I used <b>Html, Css & javascript</b> To create the front end part of the we
 
 The HomePage of the Website is with<b> main.html</b> file.
 
-![alt text](https://github.com/singshubhs/tour-Project)
+![alt text](/Users/shubhamsingh/Desktop/Food/tour-Project/screenshot/home.PNG)
 
 <h1><b>Other Screenshots of the Pages are.</b></h1>
 
-![alt text](https://github.com/singshubhs/tour-Project)
-![alt text](https://github.com/singshubhs/tour-Project)
-![alt text](https://github.com/singshubhs/tour-Project)
-![alt text](https://github.com/singshubhs/tour-Project)
+![alt text](/Users/shubhamsingh/Desktop/Food/tour-Project/screenshot/adventure.PNG)
+![alt text](/Users/shubhamsingh/Desktop/Food/tour-Project/screenshot/contact.PNG)
+![alt text](/Users/shubhamsingh/Desktop/Food/tour-Project/screenshot/database_contact.PNG)
+![alt text](/Users/shubhamsingh/Desktop/Food/tour-Project/screenshot/footer.PNG)
